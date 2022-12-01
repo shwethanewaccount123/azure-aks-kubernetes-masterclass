@@ -3,5 +3,5 @@
   "subscriptionId": "550d5c8e-75b0-422e-b376-12619c684f30",
   "resourceGroup": "dns", 
   "useManagedIdentityExtension": true,
-  "userAssignedIdentityID": "5b6a4c59-9917-460e-8baa-c3f54377e3f8"
+  "userAssignedIdentityID": "f21af7f3-e7a2-4a5b-a996-e9b7aa01dd7e"
 }
